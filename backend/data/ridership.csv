@@ -1,0 +1,11 @@
+rank	station	lines	borough	daily_avg	trend_percent
+1	Times Sq-42 St	1/2/3/7/N/Q/R/W/S	Manhattan	187400	4.1
+2	Grand Central-42 St	4/5/6/7/S	Manhattan	154200	3.3
+3	34 St-Herald Sq	B/D/F/M/N/Q/R/W	Manhattan	128700	4
+4	14 St-Union Sq	4/5/6/L/N/Q/R/W	Manhattan	112400	7.1
+5	Fulton St	2/3/4/5/A/C/J/Z	Manhattan	98700	5.8
+6	Atlantic Av-Barclays	2/3/4/5/B/D/N/Q/R	Brooklyn	89100	4.2
+7	Jay St-MetroTech	A/C/F/R	Brooklyn	76300	5.6
+8	Jackson Hts-Roosevelt	7/E/F/M/R	Queens	67900	2.7
+9	Flushing-Main St	7	Queens	54300	5.4
+10	161 St-Yankee Stadium	4/B/D	Bronx	32100	4.9
